@@ -6,5 +6,5 @@ for p in profits :
     print(p)
 
 for p in profits :
-    if p > 0 or (not ignore_negative) :
+    if p > 0 or (not ignore_negative):
         print(p)
