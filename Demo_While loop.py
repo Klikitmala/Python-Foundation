@@ -1,5 +1,9 @@
 #psuedo_code
 #While Saving is not greater than $1,000
+#Mom will give me $35.
+#Day will be increased 1day.
+#Shows total current saving.
+
 current_money = 20
 n_days = 0
 while current_money <= 1000 :
